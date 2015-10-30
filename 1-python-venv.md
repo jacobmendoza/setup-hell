@@ -24,7 +24,7 @@ pip install beautifulsoup4
 pip install Flask
 ```
 ##Deactivation
-You can always leave the venv with the following shell function provided by the it:
+You can always leave the venv with the following shell function provided by it:
 ```
 deactivate
 ```
